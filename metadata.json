@@ -1,0 +1,7 @@
+{
+  "name": "Best Move Lifetime Realty",
+  "description": "Premium real estate services in the Bronx, NY. Your lifetime partners in Bronx real estate.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
