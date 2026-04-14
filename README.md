@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/364/small_2x/3d-website-developer-working-on-laptop-illustration-png.png" alt="GHBanner" />
+  <img width="1200" src="[https://static.vecteezy.com/system/resources/thumbnails/011/153/364/small_2x/3d-website-developer-working-on-laptop-illustration-png.png](https://i.imgur.com/thdopBi.jpeg)" alt="GHBanner" />
 </div>
 # Project Website for Realty Company
 
